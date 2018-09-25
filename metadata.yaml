@@ -1,11 +1,16 @@
 _repo: Theism-and-Humanism-Being-the-Gifford-Lectures-Delivered-at-the-University-of-Glasgow-1914_57773
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57773-h/images/cover.jpg
 creator:
   author:
     agent_name: Balfour, Arthur James
     gutenberg_agent_id: '49596'
     url: http://www.gutenberg.org/2009/agents/49596
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57773#Theism-and-Humanism-Being-the-Gifford-Lectures-Delivered-at-the-University-of-Glasgow-1914
 gutenberg_issued: '2018-08-25'
 gutenberg_type: Text
 identifiers:
